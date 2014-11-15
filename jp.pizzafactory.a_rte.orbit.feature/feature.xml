@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="jp.pizzafactory.a_rte.orbit"
+      label="Third Party Bundles for A-RTE"
+      version="1.0.1.qualifier"
+      provider-name="Monami-ya LLC, JAPAN">
+
+   <description>
+See each bundle
+   </description>
+
+   <copyright>
+See each bundle
+   </copyright>
+
+   <license>
+See each bundle
+   </license>
+
+   <plugin
+         id="com.google.guava"
+         download-size="0"
+         install-size="0"
+         version="14.0.1"
+         unpack="false"/>
+
+</feature>
